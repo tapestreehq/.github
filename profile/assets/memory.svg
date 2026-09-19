@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+  <defs>
+    <linearGradient id="mline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2B7663"/>
+      <stop offset=".6" stop-color="#5CAF91"/>
+      <stop offset="1" stop-color="#8CC9B5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="26" fill="#101C1D"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="54" y="55" fill="#EDF7F3" font-size="18" font-weight="800" letter-spacing="1.2">A CHANGE SHOULD LEAVE MORE THAN A CLOSED TICKET</text>
+    <text x="54" y="86" fill="#819C94" font-size="14">Tapestree turns operational history into a reusable system of record.</text>
+
+    <g transform="translate(54 124)" fill="#CFE5DD" font-size="13" font-weight="700">
+      <g><rect width="118" height="42" rx="21" fill="#18342F"/><text x="59" y="26" text-anchor="middle">intent</text></g>
+      <g transform="translate(132)"><rect width="118" height="42" rx="21" fill="#193A33"/><text x="59" y="26" text-anchor="middle">context</text></g>
+      <g transform="translate(264)"><rect width="118" height="42" rx="21" fill="#1A4037"/><text x="59" y="26" text-anchor="middle">risk</text></g>
+      <g transform="translate(396)"><rect width="132" height="42" rx="21" fill="#1B473C"/><text x="66" y="26" text-anchor="middle">execution</text></g>
+      <g transform="translate(542)"><rect width="132" height="42" rx="21" fill="#1E5144"/><text x="66" y="26" text-anchor="middle">evidence</text></g>
+      <g transform="translate(688)"><rect width="132" height="42" rx="21" fill="#235C4C"/><text x="66" y="26" text-anchor="middle">outcome</text></g>
+      <g transform="translate(834)"><rect width="132" height="42" rx="21" fill="#286654"/><text x="66" y="26" text-anchor="middle">lessons</text></g>
+    </g>
+
+    <path d="M1050 145 C1115 145 1115 205 1048 205 H540" fill="none" stroke="url(#mline)" stroke-width="3"/>
+    <polygon points="540,205 558,196 558,214" fill="#7EC4AD"/>
+    <text x="530" y="210" text-anchor="end" fill="#A6D7C7" font-size="14" font-weight="800">ORGANIZATIONAL MEMORY</text>
+  </g>
+</svg>

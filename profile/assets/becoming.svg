@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F1A1B"/>
+      <stop offset="1" stop-color="#122622"/>
+    </linearGradient>
+    <linearGradient id="stripe" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#79C7AA"/>
+      <stop offset="1" stop-color="#227460"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="410" rx="26" fill="url(#bg)"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="50" y="56" fill="#EAF5F0" font-size="19" font-weight="800" letter-spacing="1.4">WHAT TAPESTREE IS BECOMING</text>
+    <text x="50" y="84" fill="#809D94" font-size="14">A focused operational platform for lean technical teams.</text>
+
+    <g transform="translate(50 116)">
+      <rect width="520" height="112" rx="18" fill="#152725" stroke="#263F3A"/>
+      <rect width="5" height="112" rx="3" fill="url(#stripe)"/>
+      <text x="28" y="37" fill="#A6DDCA" font-size="15" font-weight="800">CHANGE WORKSPACE</text>
+      <text x="28" y="68" fill="#D3E2DD" font-size="14">A focused place to define, perform, and validate technical work</text>
+      <text x="28" y="91" fill="#D3E2DD" font-size="14">without turning the task into ticket archaeology.</text>
+    </g>
+
+    <g transform="translate(630 116)">
+      <rect width="520" height="112" rx="18" fill="#152725" stroke="#263F3A"/>
+      <rect width="5" height="112" rx="3" fill="url(#stripe)"/>
+      <text x="28" y="37" fill="#A6DDCA" font-size="15" font-weight="800">OPERATIONAL MEMORY</text>
+      <text x="28" y="68" fill="#D3E2DD" font-size="14">A durable record of decisions, evidence, outcomes, and lessons</text>
+      <text x="28" y="91" fill="#D3E2DD" font-size="14">that becomes more useful as the environment evolves.</text>
+    </g>
+
+    <g transform="translate(50 252)">
+      <rect width="520" height="112" rx="18" fill="#152725" stroke="#263F3A"/>
+      <rect width="5" height="112" rx="3" fill="url(#stripe)"/>
+      <text x="28" y="37" fill="#A6DDCA" font-size="15" font-weight="800">GOVERNANCE BY DEFAULT</text>
+      <text x="28" y="68" fill="#D3E2DD" font-size="14">Good habits embedded into the workflow itself, so rigor does not</text>
+      <text x="28" y="91" fill="#D3E2DD" font-size="14">depend on reconstructing the paperwork later.</text>
+    </g>
+
+    <g transform="translate(630 252)">
+      <rect width="520" height="112" rx="18" fill="#152725" stroke="#263F3A"/>
+      <rect width="5" height="112" rx="3" fill="url(#stripe)"/>
+      <text x="28" y="37" fill="#A6DDCA" font-size="15" font-weight="800">ENGINEERING SUPPORT</text>
+      <text x="28" y="68" fill="#D3E2DD" font-size="14">Structure that helps administrators work with more confidence</text>
+      <text x="28" y="91" fill="#D3E2DD" font-size="14">and consistency, without treating them as something to monitor.</text>
+    </g>
+  </g>
+</svg>
