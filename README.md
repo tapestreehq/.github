@@ -26,7 +26,7 @@ The goal is not more process. The goal is better operational memory.
 
 <br>
 
-The loop
+## The loop
 
 <p align="center">
   <img src="./assets/workflow.svg" alt="Tapestree workflow: Plan, Perform, Validate, Learn" width="100%">
@@ -41,7 +41,7 @@ Learn from the result so the next change starts with more knowledge than the las
 
 <br>
 
-What survives the change
+## What survives the change
 
 <p align="center">
   <img src="./assets/memory.svg" alt="Tapestree preserves intent, context, risk, execution, evidence, outcomes, and lessons as organizational memory" width="100%">
@@ -73,7 +73,7 @@ The people making the changes should not need an enterprise bureaucracy around t
 
 <br>
 
-Product principles
+## Mission
 
 <p align="center">
   <img src="./assets/principles.svg" alt="Tapestree product principles" width="100%">
@@ -81,38 +81,14 @@ Product principles
 
 <br>
 
-What Tapestree is becoming
+## Vision
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Change workspace</h3>
-      <p>A focused place to define, perform, and validate technical work without turning the task into ticket archaeology.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Operational memory</h3>
-      <p>A durable record of decisions, evidence, outcomes, and lessons that becomes more useful as the environment evolves.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Governance by default</h3>
-      <p>Good habits embedded into the workflow itself, so rigor does not depend on someone remembering to reconstruct the paperwork later.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Engineering support</h3>
-      <p>Structure that helps administrators work with more confidence and consistency, without treating them as something to monitor.</p>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="./assets/becoming.svg" alt="What Tapestree is becoming" width="100%">
+</p>
 <br>
 
-The organization
-
-tapestre​ehq is where Tapestree is being built.
-
-This organization will hold the application, supporting services, libraries, documentation, infrastructure, experiments, and public components that make up the product.
+## The organization
 
 Tapestree is still in early product development. Architecture, workflows, and product boundaries will change as the idea is tested against real operational work.
 
